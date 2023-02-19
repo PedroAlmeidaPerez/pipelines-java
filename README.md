@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/pedroperez0921/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/PedroAlmeidaPerez.pipelines-java?branchName=main)](https://dev.azure.com/pedroperez0921/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_build/latest?definitionId=4&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
